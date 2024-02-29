@@ -25,7 +25,7 @@ header h4{
     z-index: -1;
 }
 .header-image img{
-    width: 1550px;
+    width: 100vw;
 }
 .nav{
     display: flex;
